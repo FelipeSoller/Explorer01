@@ -15,11 +15,11 @@ Para visualizar a página em seu navegador, siga os passos abaixo:
 
 1. Clone o repositório para o seu ambiente local:
 ```
-git clone https://github.com/seu-usuario/interior-design-landing-page.git
+git clone https://github.com/FelipeSoller/Stage02_Landing_Page_01.git
 ```
 3. Clone o repositório para o seu ambiente local:
 ```
-cd interior-design-landing-page
+cd Stage02_Landing_Page_01
 ```
 3. Clone o repositório para o seu ambiente local:
 ```
